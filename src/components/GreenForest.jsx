@@ -934,287 +934,157 @@ const GreenForest = () => {
                 climate
               </button>
             </div>
-            <div
-              className="portfolio-items"
-              style={{ position: "relative", height: "1911.5px",display:"flex" }}
-            >
-              <div
-                className="item cat-1"
-                data-category="transition"
-                style={{ position: "absolute", left: 0, top: 0 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-1.jpg"
-                      alt="recent-project-img-1"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-1.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Sustainable Agriculture</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-              <div
-                className="item cat-2 "
-                data-category="metalloid"
-                style={{ position: "absolute", left: 0, top: 324 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-2.jpg"
-                      alt="recent-project-img-2"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-2.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Helping Young Planting</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-              <div
-                className="item cat-3 "
-                data-category="post-transition"
-                style={{ position: "absolute", left: 0, top: 649 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-3.jpg"
-                      alt="recent-project-img-3"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-3.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Need Solar Panels</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-              <div
-                className="item cat-2"
-                data-category="post-transition"
-                style={{ position: "absolute", left: 0, top: 955 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-4.jpg"
-                      alt="recent-project-img-4"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-4.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Save The Ozone Layer</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-              <div
-                className="item cat-4"
-                data-category="transition"
-                style={{ position: "absolute", left: 0, top: 1280 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-5.jpg"
-                      alt="recent-project-img-5"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-5.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Save Water From Polution</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-              <div
-                className="item cat-1"
-                data-category="alkali"
-                style={{ position: "absolute", left: 0, top: 1605 }}
-              >
-                <div className="item-inner">
-                  <div className="portfolio-img">
-                    <div className="overlay-project" />
-                    {/* .overlay-project */}
-                    <img
-                      src="assets/images/recent-project-img-6.jpg"
-                      alt="recent-project-img-6"
-                    />
-                    <ul className="project-link-option">
-                      <li className="project-link">
-                        <a href="project_single.html">
-                          <i className="fa fa-link" aria-hidden="true" />
-                        </a>
-                      </li>
-                      <li className="project-search">
-                        <a
-                          href="assets/images/recent-project-img-6.jpg"
-                          data-rel="lightcase:myCollection"
-                        >
-                          <i className="fa fa-search-plus" aria-hidden="true" />
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  {/* /.portfolio-img */}
-                  <div className="recent-project-content">
-                    <h4>
-                      <a href="project_single.html">Make Plants Alive</a>
-                    </h4>
-                    <p>
-                      By :{" "}
-                      <span>
-                        <a href="#">Green Forest</a>
-                      </span>
-                    </p>
-                  </div>
-                  {/* .latest-port-content */}
-                </div>
-                {/* .item-inner */}
-              </div>
-              {/* .items */}
-            </div>
+            <div className="portfolio-items" style={{ display: "flex", flexDirection: "row", overflowX: "auto", gap: "20px", padding: "20px 0" }}>
+  <div className="item cat-1" data-category="transition" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-1.jpg" alt="recent-project-img-1" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-1.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Sustainable Agriculture</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+  
+  <div className="item cat-2" data-category="metalloid" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-2.jpg" alt="recent-project-img-2" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-2.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Helping Young Planting</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+  
+  <div className="item cat-3" data-category="post-transition" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-3.jpg" alt="recent-project-img-3" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-3.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Need Solar Panels</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+  
+  <div className="item cat-2" data-category="post-transition" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-4.jpg" alt="recent-project-img-4" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-4.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Save The Ozone Layer</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+  
+  <div className="item cat-4" data-category="transition" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-5.jpg" alt="recent-project-img-5" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-5.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Save Water From Polution</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+  
+  <div className="item cat-1" data-category="alkali" style={{ flex: "0 0 auto", width: "300px" }}>
+    <div className="item-inner">
+      <div className="portfolio-img">
+        <div className="overlay-project" />
+        <img src="assets/images/recent-project-img-6.jpg" alt="recent-project-img-6" />
+        <ul className="project-link-option">
+          <li className="project-link">
+            <a href="project_single.html">
+              <i className="fa fa-link" aria-hidden="true" />
+            </a>
+          </li>
+          <li className="project-search">
+            <a href="assets/images/recent-project-img-6.jpg" data-rel="lightcase:myCollection">
+              <i className="fa fa-search-plus" aria-hidden="true" />
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div className="recent-project-content">
+        <h4><a href="project_single.html">Make Plants Alive</a></h4>
+        <p>By : <span><a href="#">Green Forest</a></span></p>
+      </div>
+    </div>
+  </div>
+</div>
             {/* .isotope-items */}
           </div>
           {/* .recent-project */}
@@ -2104,9 +1974,8 @@ const GreenForest = () => {
                 awesome skills.
               </p>
             </div>
-            {/* .section-header */}
             <div className="sponsors-container swiper-container-horizontal">
-              <div className="swiper-wrapper">
+              <div className="swiper-wrapper d-flex">
                 <div
                   className="swiper-slide swiper-slide-active"
                   style={{ width: 257, marginRight: 10 }}
@@ -2220,18 +2089,11 @@ const GreenForest = () => {
                 </div>
                 {/* .swiper-slide */}
               </div>
-              {/* .swiper-wrapper */}
             </div>
-            {/* .sponsors-container */}
           </div>
-          {/* .sponsors-option */}
         </div>
-        {/* .row */}
       </div>
-      {/* .container */}
     </section>
-    {/* End Sponsors Section */}
-    {/* Start Footer Section */}
     <footer>
       <div className="bg-footer-top">
         <div className="container">
