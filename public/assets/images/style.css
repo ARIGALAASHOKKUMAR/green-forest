@@ -1109,7 +1109,7 @@ section{
 
 
 .bg-page-header{
-	/* background: url(../../assets/images/about/bg-page-header.jpg) no-repeat; */
+	background: url(../../assets/images/about/bg-page-header.jpg) no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;
 }
@@ -1985,7 +1985,7 @@ section{
 =============================================*/
 
 .bg-count-section{
-	/* background: url(../../assets/images/home01/bg-count-img.jpg) no-repeat fixed; */
+	background: url(../../assets/images/home01/bg-count-img.jpg) no-repeat fixed;
 	background-size: cover;
 	background-position: 33%;
 }
@@ -2173,7 +2173,7 @@ section{
 =============================================*/
 
 .bg-testimonial-section{
-	/* background: url(../../assets/images/home01/bg-testimonial-img.jpg) fixed; */
+	background: url(../../assets/images/home01/bg-testimonial-img.jpg) fixed;
 	background-size: cover;
 }
 .testimonial-overlay{
@@ -2197,7 +2197,7 @@ section{
 .testimonial-content:after{
 	position: absolute;
 	content: "";
-	/* background: url(../../assets/images/home01/testimonial-arrow.png) no-repeat; */
+	background: url(../../assets/images/home01/testimonial-arrow.png) no-repeat;
 	width: 35px;
 	height:23px;
 	bottom: -20px;
@@ -2951,7 +2951,7 @@ div#filters {
 ==========================================*/
 
 .bg-count2-section{
-	/* background: url(../../assets/images/home02/bg-counter2-img.jpg) no-repeat fixed; */
+	background: url(../../assets/images/home02/bg-counter2-img.jpg) no-repeat fixed;
     background-size: cover;
     background-position: 48% 100%;
 }
@@ -3045,7 +3045,7 @@ div#filters {
 ==========================================*/
 
 .bg-compaian-video{
-	/* background: url(../../assets/images/home02/bg-video-section.jpg) no-repeat fixed; */
+	background: url(../../assets/images/home02/bg-video-section.jpg) no-repeat fixed;
     background-size: cover;
     background-position: 48% 100%;
 }
@@ -3488,7 +3488,7 @@ ul>li>a:focus, ul>li>a:hover {
 =======================================*/
 
 .bg-donation-section{
-	/* background: url(../../assets/images/home03/bg-donation-img.jpg) no-repeat fixed; */
+	background: url(../../assets/images/home03/bg-donation-img.jpg) no-repeat fixed;
 	background-size: cover;
 	background-position: 50% 50%;
 }
@@ -3592,7 +3592,7 @@ ul>li>a:focus, ul>li>a:hover {
 =======================================*/
 
 .bg-people-say-section{
-	/* background: url(../../assets/images/home03/bg-people-say.jpg)no-repeat fixed; */
+	background: url(../../assets/images/home03/bg-people-say.jpg)no-repeat fixed;
 	background-size: cover;
 	background-position: 45%;
 }
@@ -3658,7 +3658,7 @@ ul>li>a:focus, ul>li>a:hover {
 =======================================*/
 
 .bg-count3-section{
-	/* background: url(../../assets/images/home03/bg-count-img.jpg) no-repeat fixed; */
+	background: url(../../assets/images/home03/bg-count-img.jpg) no-repeat fixed;
 	background-size: cover;
 	background-position: 50% 50%;
 }
@@ -4965,7 +4965,7 @@ ul>li>a:focus, ul>li>a:hover {
 	padding: 12px 0;
 }
 .bg-homebox-video {
-    /* background: url(../../assets/images/bg-home-box-video-img.jpg) no-repeat fixed; */
+    background: url(../../assets/images/home01/bg-home-box-video-img.jpg) no-repeat fixed;
     background-size: cover;
     background-position: 48% 100%;
 }
